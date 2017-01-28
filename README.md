@@ -33,7 +33,7 @@ L'_Australopithecus_ era principalmente **nomade**.
 
 #### 2.1 Causa
 
-L'_Homo sapiens_, specie del genere _Homo_ è un **virus**.  
+L'_Homo sapiens_, specie del genere _Homo_ è un **parassita**.  
 Lo studio della storia e dell'evoluzione umana, sin dagli albori delle prime civiltà, dev'essere affrontato in chiave materialistica.
 
 Tutti gli sviluppi in ambito sociale, le convenzioni, le religioni, la scienza, l'economia, sono diretta conseguenza della capacità dell'_Homo_ di piegare a suo vantaggio l'ambiente in cui vive e si riproduce, sfruttando le risorse naturali con _rapporti di produzione_[^4] che, oltre a caratterizzare l'epoca storica a cui sono applicati (schiavismo, feudalismo e latifondo, capitalismo e globalizzazione) distruggono e rimodellano artificialmente l'ecosistema terrestre.
@@ -58,16 +58,16 @@ Il ritorno delle scimmie antropomorfe come unica forma di vita umanoide *involut
 
 ### Ominidi
 
-Ominidi.org è il punto di arrivo di una serie di riflessioni personali in campo politico, sociale, tecnologico.
-Adesivi, manifesti e tag sono elementi di disturbo multidisciplinare (street art, design, scrittura, informatica) teso alla riappropriazione degli spazi di dominio comune.
-L'atto fondamentalmente anarchico di attaccare adesivi 
-Un
-a masturbazione intellettuale [?!] a due mani, un puerile pretesto per scrivere di anarchia, robot, street art e graffiti.  
-Un'occasione per mettere in pratica tecniche di disturbo multidisciplinari (street art, design, scrittura, informatica): 
-gli ominidi (gli stickers) sono un 
-Uno strumento primitivo per attaccare la vita quotidiana a colpi di adesivi e tag, possibilmente in orari di punta.  
-Ominidi.org è completamente _free_ ed _open source_.
+Ominidi è il punto di arrivo di una serie di riflessioni personali in campo filosofico, politico e antropologico, maturate durante i profondi e repentini cambiamenti sociali avvenuti durante i primi anni del secondo millennio d.C.
 
+L'atto visceralmente anarchico di attaccare adesivi è un elemento di disturbo antagonista alla struttura sociale moderna;  
+ogni adesivo, o tag, o manifesto è un ominide, un _virus_ primitivo che proliferando mina le basi dell'arrogante dominio umano sull'ecosistema terrestre, un gutturale urlo di protesta contro la smisurata _hybris_ del _Sapiens_.
+
+Ominidi è la somma di diverse esperienze multidisciplinari: street art, design e scrittura per dare una forma concreta a ciò che era solo un'idea e l'informatica come _medium_ per veicolare in rete il messaggio in una forma libera e senza vincoli.  
+Tutto il materiale di Ominidi, dal codice sorgente dell'applicativo web, al materiale grafico con cui sono stati creati i primi adesivi, sino al Manifesto stesso è _free_ ed _open source_, rilasciato con licenze MIT o Creative Commons.
+
+Infine Omindi è la valvola di sfogo di una rabbia [com][re]pressa attravero l'autocontrollo, un viatico per l'impotenza intellettuale e fisica di poter cambiare la realtà che ci circonda, la narrazione di temi affascinanti (anarchia, robot ed AI, graffiti) attraverso suggestioni distopiche ed apocalittiche.
+Ominidi non è nè uomo nè animale.
 
 ##### Note
 
