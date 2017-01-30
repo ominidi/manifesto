@@ -25,7 +25,7 @@ Un dimorfismo sessuale molto accentuato lascia presupporre che gli _Australopith
 E' probabile che gli austrolopitechi non usassero utensili (ad eccezione dello _[Australopithecus garhi](https://it.wikipedia.org/wiki/Australopithecus_garhi))_ e che non avessero sviluppato alcuna forma di linguaggio.  
 La comunicazione avveniva unicamente con **versi e gesti**.
 
-Di alimentazione principalmente vegetariana, la dieta principale era composta da bacche, radici e altri cibi di natura vegetale; quando costretto si nutriva anche di piccoli insetti e mammiferi[^3].  
+Di alimentazione principalmente vegetariana, la dieta era composta da bacche, radici e altri cibi di natura vegetale; quando costretto si nutriva anche di piccoli insetti e mammiferi[^3].  
 L'_Australopithecus_ era principalmente **nomade**.
 
 
@@ -33,10 +33,10 @@ L'_Australopithecus_ era principalmente **nomade**.
 
 #### 2.1 Causa
 
-L'_Homo sapiens_, specie del genere _Homo_ è un **virus**.  
+L'_Homo sapiens_, specie del genere _Homo_ è un **parassita**.  
 Lo studio della storia e dell'evoluzione umana, sin dagli albori delle prime civiltà, dev'essere affrontato in chiave materialistica.
 
-Tutti gli sviluppi in ambito sociale, le convenzioni, le religioni, la scienza, l'economia, sono diretta conseguenza della capacità dell'_Homo_ di piegare a suo vantaggio l'ambiente in cui vive e si riproduce, sfruttando le risorse naturali con _rapporti di produzione_[^4] che, oltre a caratterizzare l'epoca storica a cuisono applicati (schiavismo, feudalismo e latifondo, capitalismo e globalizzazione) distruggono e rimodellano artificialmente l'ecosistema terrestre.
+Tutti gli sviluppi in ambito sociale, le convenzioni, le religioni, la scienza, l'economia, sono diretta conseguenza della capacità dell'_Homo_ di piegare a suo vantaggio l'ambiente in cui vive e si riproduce, sfruttando le risorse naturali con _rapporti di produzione_[^4] che, oltre a caratterizzare l'epoca storica a cui sono applicati (schiavismo, feudalismo e latifondo, capitalismo e globalizzazione) distruggono e rimodellano artificialmente l'ecosistema terrestre.
 
 Nessuna forma di società con cui si è [auto]organizzato l'essere umano è riuscita ad armonizzarsi in modo assoluto col pianeta Terra, neanche le più primigenie:  
 nè le prime popolazioni nomadi di cacciatori e raccoglitori, da cui sono nate strutture gerarchice patriarcali, autoritarie e violente[^5][^6], nè le comunità stanziali di tipo agricolo, che per prime hanno iniziato a modificare l'habitat da cui trarre sostentamento[^7].
@@ -58,11 +58,16 @@ Il ritorno delle scimmie antropomorfe come unica forma di vita umanoide *involut
 
 ### Ominidi
 
-Una masturbazione intellettuale [?!] a due mani, un puerile pretesto per scrivere di anarchia, robot, street art e graffiti.  
-Un'occasione per mettere in pratica tecniche di disturbo multidisciplinari (design, scrittura, informatica) col denominatore comunue del cazzeggio;  
-Uno strumento primitivo per attaccare la vita quotidiana a colpi di adesivi e tag, possibilmente in orari di punta.  
-Ominidi.org è completamente _free_ ed _open source_.
+Ominidi è il punto di arrivo di una serie di riflessioni personali in campo filosofico, politico e antropologico, maturate durante i profondi e repentini cambiamenti sociali avvenuti durante i primi anni del secondo millennio d.C.
 
+L'atto visceralmente anarchico di attaccare adesivi è un elemento di disturbo antagonista alla struttura sociale moderna;  
+ogni adesivo, o tag, o manifesto è un ominide, un _virus_ primitivo che proliferando mina le basi dell'arrogante dominio umano sull'ecosistema terrestre, un gutturale urlo di protesta contro la smisurata _hybris_ del _Sapiens_.
+
+Ominidi è la somma di diverse esperienze multidisciplinari: street art, design e scrittura per dare una forma concreta a ciò che era solo un'idea e l'informatica come _medium_ per veicolare in rete il messaggio in una forma libera e senza vincoli.  
+Tutto il materiale di Ominidi, dal codice sorgente dell'applicativo web, al materiale grafico con cui sono stati creati i primi adesivi, sino al Manifesto stesso è _free_ ed _open source_, rilasciato con licenze MIT o Creative Commons.
+
+Infine Omindi è la valvola di sfogo di una rabbia [com][re]pressa attravero l'autocontrollo, un viatico per l'impotenza intellettuale e fisica di poter cambiare la realtà che ci circonda, la narrazione di temi affascinanti (anarchia, robot ed AI, graffiti) attraverso suggestioni distopiche ed apocalittiche.
+Ominidi non è nè uomo nè animale.
 
 ##### Note
 
@@ -89,5 +94,3 @@ New York, MacMillan, 1972, pp. 41-60
 [^10] Nick Bostrom, [Existential Risks](http://www.nickbostrom.com/existential/risks.html), Journal of Evolution and Technology, Vol. 9, No. 1 (2002)
 
 [^11] Nick Bostrom, [Superintelligence](http://www.nickbostrom.com/views/superintelligence.pdf), 2009
-
-
